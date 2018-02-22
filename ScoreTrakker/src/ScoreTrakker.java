@@ -5,12 +5,8 @@ import java.util.Collections;
 import java.util.Scanner;
 
 /**
- * 
- */
-
-/**
  * @author dquintana, ztmills
- *
+ * ScoreTrakker class
  */
 public class ScoreTrakker {
 	private ArrayList<Student> studentArray = new ArrayList<Student>();
